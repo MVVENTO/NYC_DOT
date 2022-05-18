@@ -11,24 +11,14 @@ App Dev Project Management Internship for NYC DOT.
 6. Manual
 7. Documentation
 
-<Neural Network>
+## <Neural Network>
    Create a neural network for automation of asset collection.
   We are training the model to detect Streetlights and curbcuts. 
   Collect XYZ coordinates
   
   https://github.com/kylehslee/DOTNN 
   
-  
-  Overview
-  Description
-  
-   App Evaluation
-Category: Social Networking / Neural Network / Language
-Computer: This app would be primarily developed for Window devices. Functionality could be limited to Window devices.
-Story: Automate feedback gathering from a social group. Users can execute scripts to optain infomartion from their particular following. Optain statistical data to further understand their sentiment. Clasify sentences on wether they are positve, negative or neutral.
-Market: Limited to the social media team at the NYC DOT.
-   
-   
+## Streetlight and Curb Cut Detection 
  Creating a custom model to detect your objects is an iterative process of collecting and organizing images, labeling your objects of interest, training a model, deploying it into the wild to make predictions, and then using that deployed model to collect examples of edge cases to repeat and improve.
 
 1. Create Dataset
