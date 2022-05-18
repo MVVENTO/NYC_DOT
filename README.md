@@ -15,7 +15,7 @@ App Dev Project Management Internship for NYC DOT.
 3. [Product Spec](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#product-spec)
 4. [Schema](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#schema)
 5. [Wireframes](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#wireframes)
-6. Manual
+6. [Manual](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#manual)
 7. Documentation
 
 ## <Neural Network>
