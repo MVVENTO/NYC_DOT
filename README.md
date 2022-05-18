@@ -10,7 +10,7 @@ App Dev Project Management Internship for NYC DOT.
 
 
 **Table of Content **
-1. Overview
+1. [Overview](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#overview)
 2. Usage
 3. Product Spec
 4. Schema
