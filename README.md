@@ -50,12 +50,15 @@ For more details check Manual for more details.
  Script naviagtes to specified account or page.
  Script can fetch comments from the specified account or page.
  Script can fetch data within a given parameter.
+   
 2. Neural Network Model
  Model trained.
- Model can clasify sentences.
- Model can rate sentences.
+ Model can clasify streetlights and curbcuts.
+ Model can rate streetlights and curbcut.
+   
 3. Screen Archetypes
 Creation - Select one of the scripts from a simple GUI interface to fetch and save data from your desired platform.
+   
 4. Navigation
 Flow Navigation
 
@@ -80,7 +83,7 @@ Output --> Text and numerial data.
 1. Create Dataset
 YOLOv5 models must be trained on labelled data in order to learn classes of objects in that data. There are two options for creating your dataset before you start training:
 
-Use Roboflow to label, prepare, and host your custom data automatically in YOLO format 🚀 NEW (click to expand) https://app.roboflow.com/nn/streetlights-detection/images/?split=train
+Use Roboflow to label, prepare, and host your custom data automatically in YOLO format 🚀 NEW [click to expand](https://app.roboflow.com/nn/streetlights-detection/images/?split=train) 
 Or manually prepare your dataset 
    
 2. Select a Model
