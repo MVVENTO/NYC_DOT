@@ -16,7 +16,7 @@ App Dev Project Management Internship for NYC DOT.
 4. [Schema](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#schema)
 5. [Wireframes](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#wireframes)
 6. [Manual](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#manual)
-7. Documentation
+7. [Documentation](https://github.com/MVVENTO/NYC_DOT/blob/main/README.md#documentation)
 
 ## <Neural Network>
    Create a neural network for automation of asset collection.
