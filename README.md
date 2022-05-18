@@ -23,7 +23,6 @@ App Dev Project Management Internship for NYC DOT.
   We are training the model to detect Streetlights and curbcuts. 
   Collect XYZ coordinates
   
-  https://github.com/kylehslee/DOTNN 
   
    ![This is an image](https://camo.githubusercontent.com/2653cd415161265cc58a5f2f054a958bf21e97ebce636c3e49b86c82e88bf37d/68747470733a2f2f75706c6f6164732d73736c2e776562666c6f772e636f6d2f3566366263363065363635663534353435613165353261352f3631353632376535383234633963363139356162666461395f636f6d70757465722d766973696f6e2d6379636c652e706e67)
    
