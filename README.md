@@ -69,6 +69,8 @@ Output --> Text and numerial data.
    
 ## Schema
    
+   ![Schema](file:///Users/nova/Library/Mobile%20Documents/com~apple~CloudDocs/Downloads/SCHEMA.html)
+   
    
 ## Wireframes
    
